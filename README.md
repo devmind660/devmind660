@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devmind660
 - 🌱 I’m a french web developer
-- 💞️ I’m looking to get my first job
+- 💞️ I’m looking to get my first job!
 - 📫 How to reach me : @devmind660 on Twitter
 - https://www.linkedin.com/in/guillaume-cheyrou/
 
