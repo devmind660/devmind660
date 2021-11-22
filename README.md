@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @devmind660
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to create my own website
+- 🌱 I’m a french web developer
+- 💞️ I’m looking to get my first job
 - 📫 How to reach me : @devmind660 on Twitter
+- https://www.linkedin.com/in/guillaume-cheyrou/
 
 <!---
 devmind660/devmind660 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
