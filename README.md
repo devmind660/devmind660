@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devmind660
 - 🖥 I’m a french web developer
 - 📫 How to reach me : https://www.linkedin.com/in/guillaume-cheyrou/
-– 🔗 My website : gc64.fr
+- 🔗 My website : gc64.fr
 
 Have a nice day ! 😊
 
